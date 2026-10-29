@@ -1,0 +1,4 @@
+site_name: Portrait Transparency Notes
+docs_dir: docs
+nav:
+  - Review guidance: index.md
